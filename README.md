@@ -1,2 +1,2 @@
 # Data_Visualisation
-Проекты, выполненные с использованием BI инструментов.
+This repository contains projects made usein BI tools.
